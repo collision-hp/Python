@@ -1,6 +1,7 @@
+# 3 type of strings representation
 name='KingKohli'
-# b="king"
-# c='''king'''
+# name2="king"
+# name3='''king'''
 
 nameshort = name[0:3] # start form index 0 and goes till 3(excluding 3)
 print(nameshort)
