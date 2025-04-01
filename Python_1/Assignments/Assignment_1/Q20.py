@@ -1,0 +1,10 @@
+import math
+a=int(input("Enter 1st integer"))
+b=int(input("Enter 2nd integer"))
+print("Sum",a+b)
+print("Diff",b-a)
+print("Product",a*b)
+print("Quotient",a/b)
+print("Remainder",a%b)
+print("Result",math.log(a))
+print(f"{a}{b}")
